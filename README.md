@@ -1,3 +1,3 @@
-# Hello-world
+# Ajabu ecommerce
 first repository
 ceo ajabu companies
